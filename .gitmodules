@@ -1,0 +1,4 @@
+[submodule "ahmadn91/delivery_management"]
+	path = ahmadn91/delivery_management
+	url = git@github.com:ahmadn91/delivery_management.git
+	branch = master
